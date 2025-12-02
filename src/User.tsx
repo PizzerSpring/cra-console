@@ -3,6 +3,7 @@ export const User = () => {
         <div>
             <h2>User123</h2>
              <h2>User123</h2>
+             <h3>UserName</h3>
         </div>
     )
 }
